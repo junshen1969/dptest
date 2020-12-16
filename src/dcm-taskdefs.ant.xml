@@ -898,7 +898,7 @@
             <uid>@{uid}</uid>
             <pwd>@{pwd}</pwd>
             <local>@{local}@{filename}</local>
-            <remote>@{filestore}@{filename}</remote>
+            <remote>@{filestore}:@{filename}</remote>
           </wdp>
         </sequential>
       </forxpath>
